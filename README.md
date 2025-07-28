@@ -136,13 +136,7 @@ src/
   - Follow-up: 20 minutes, weekly recurring
 - **Validation**: Comprehensive overlap detection and prevention
 
-## 🚀 Deployment
-
-### Deploy to Vercel (Recommended)
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Add environment variables in Vercel dashboard
-4. Deploy automatically
+## 🚀 Deployment Link - https://calendar-system.vercel.app/
 
 
 ## 🧪 Testing
